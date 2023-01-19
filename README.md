@@ -2,4 +2,4 @@
 https://e-nutrition.github.io/
 
 # BG version
-https://e-nutrition.github.io/bg
+## https://e-nutrition.github.io/bg
